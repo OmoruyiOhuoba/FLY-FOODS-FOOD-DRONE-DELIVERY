@@ -23,7 +23,7 @@ The project consists of X main components:
 
   
 ## Authors
- - Omoruyi Ohuoba ([@Omoruyiohuoba](https://github.com/OmoruyiOhuoba))- Web App Development, Server API,PayStack payments,Database
+ - Omoruyi Ohuoba ([@Omoruyiohuoba](https://github.com/OmoruyiOhuoba))- Web App Development, Server API, PayStack payments, Database
  - Amaino Oti ([@Amainooti](https://github.com/Amainooti)) - Drone/Server communication
  - Akoh Jesse ([@Akohjesse](https://github.com/Akohjesse)) - Open Source Maintainer, Front-end Web 
  
