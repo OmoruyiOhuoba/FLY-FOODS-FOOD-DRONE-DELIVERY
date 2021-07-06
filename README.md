@@ -20,15 +20,22 @@ The project consists of X main components:
 - Web app for placing orders and making payments
 
 - AR_DRONE module
+
+  
+##Authors
+ - Omoruyi Ohuoba ([@Omoruyiohuoba](https://github.com/OmoruyiOhuoba))- Web App Development, Server API,PayStack payments,Database
+ - Amaino Oti ([@Amainooti](https://github.com/Amainooti)) - Drone/Server communication
+ - Akoh Jesse ([@Akohjesse](https://github.com/Akohjesse)) - Open Source Maintainer, Front-end Web 
+ 
  
 ## Contributions
 
 1. Fork the repo
 
-2. Create a feature branch `git checkout -b feature` 
-3. Push to the branch `git push origin feature/fooBar` 
+2. Create a feature branch `git checkout -b xyz` 
+3. Push to the branch `git push origin xyz` 
 4. Create a new Pull Request 
 5. It'll be merged upon review
 
 ## License
-Distributed under the MIT license.
+Distributed under the MIT license. See [LICENSE](https://github.com/OmoruyiOhuoba/FLY-FOODS-FOOD-DRONE-DELIVERY/blob/master/LICENSE) for more information
