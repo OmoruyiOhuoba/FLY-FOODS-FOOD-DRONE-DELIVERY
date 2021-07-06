@@ -10,7 +10,7 @@
     "heroku-postbuild": "cd client && npm install && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ['Drone Delivery System, NodeJS, ReactJS, Ejs'],
+  "keywords": ["Drone Delivery System, NodeJS, ReactJS, Ejs"],
   "author": ["Amaino Oti, Omoruyi Ohuoba, Akoh Jesse"],
   "license": "MIT",
   "dependencies": {
