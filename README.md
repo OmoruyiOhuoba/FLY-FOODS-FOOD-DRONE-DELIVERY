@@ -13,7 +13,7 @@
 
 <hr>
 
-The project consists of X main components:
+The project consists of 3 main components:
 
 - Server controlling communication between drone and server, handling external API requests, Paystack payments etc
 
