@@ -10,9 +10,9 @@
     "heroku-postbuild": "cd client && npm install && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ['Drone Delivery System, NodeJS, ReactJS, Ejs'],
+  "author": ["Amaino Oti, Omoruyi Ohuoba, Akoh Jesse"],
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
