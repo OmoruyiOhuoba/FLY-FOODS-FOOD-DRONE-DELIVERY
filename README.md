@@ -1,4 +1,4 @@
-# FLY-FOODS-FOOD-DRONE-DELIVERY
+# FLY-FOODS-DRONE-DELIVERY
 
 >FlyFoods-drone is an open-source autonomous drone delivery system built by the Abuad Developers Community.
 >
@@ -6,4 +6,11 @@
 
 [For more info about the community](https://t.co/81SRaNkVPE?amp=1).
 
->Our drone connects to the server using the local cellular network, which drives it to pick-up and deliver orders. Orders can be submitted via the server API, the mobile app. Payments are processed on the paystack api running on a node server.
+>Our drone connects to the server using the local cellular network, which drives it to pick-up and deliver orders. Orders can be submitted via the server API, the web app. Payments are processed on the paystack api running on a node server.
+
+## Get Started
+<hr>
+The project consists of X main components:
+1. Server controlling communication between drone and server, handling external API requests, Paystack payments etc
+2. Web app for placing orders and making payments
+3. AR_DRONE module
