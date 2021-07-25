@@ -1,6 +1,4 @@
-client/node_modules
-/client/node_modules
-node_modules
-/node_modules
-/routes/flyfoods-routes.js
-routes/flyfoods-routes.js
+*.pyc
+*.db
+.DS_Store
+.env
